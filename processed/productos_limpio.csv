@@ -1,0 +1,101 @@
+id_producto,nombre_producto,categoria,precio_unitario
+1,Coca Cola 1.5L,alimentos,2347.0
+2,Pepsi 1.5L,alimentos,4973.0
+3,Sprite 1.5L,alimentos,4964.0
+4,Fanta Naranja 1.5L,alimentos,2033.0
+5,Agua Mineral 500Ml,alimentos,4777.0
+6,Jugo De Naranja 1L,alimentos,4170.0
+7,Jugo De Manzana 1L,alimentos,3269.0
+8,Energética Nitro 500Ml,alimentos,4218.0
+9,Yerba Mate Suave 1Kg,alimentos,3878.0
+10,Yerba Mate Intensa 1Kg,alimentos,4883.0
+11,Café Molido 250G,alimentos,2053.0
+12,Té Negro 20 Saquitos,alimentos,570.0
+13,Té Verde 20 Saquitos,alimentos,2383.0
+14,Leche Entera 1L,alimentos,1723.0
+15,Leche Descremada 1L,alimentos,2538.0
+16,Yogur Natural 200G,alimentos,4613.0
+17,Queso Cremoso 500G,alimentos,4834.0
+18,Queso Rallado 150G,alimentos,3444.0
+19,Manteca 200G,alimentos,3251.0
+20,Pan Lactal Blanco,alimentos,1571.0
+21,Pan Lactal Integral,alimentos,272.0
+22,Medialunas De Manteca,alimentos,2069.0
+23,Bizcochos Salados,alimentos,2380.0
+24,Galletitas Chocolate,alimentos,1305.0
+25,Galletitas Vainilla,alimentos,4015.0
+26,Alfajor Triple,alimentos,1001.0
+27,Alfajor Simple,alimentos,2502.0
+28,Papas Fritas Clásicas 100G,alimentos,936.0
+29,Papas Fritas Onduladas 100G,alimentos,1868.0
+30,Maní Salado 200G,alimentos,4875.0
+31,Mix De Frutos Secos 200G,alimentos,3409.0
+32,Chocolate Amargo 100G,alimentos,2234.0
+33,Chocolate Con Leche 100G,alimentos,1255.0
+34,Turrón 50G,alimentos,503.0
+35,Barrita De Cereal 30G,alimentos,4430.0
+36,Dulce De Leche 400G,alimentos,2559.0
+37,Mermelada De Durazno 400G,alimentos,3196.0
+38,Mermelada De Frutilla 400G,alimentos,1584.0
+39,Helado Vainilla 1L,alimentos,469.0
+40,Helado Chocolate 1L,alimentos,1215.0
+41,Aceite De Girasol 1L,alimentos,860.0
+42,Vinagre De Alcohol 500Ml,alimentos,1195.0
+43,Salsa De Tomate 500G,alimentos,887.0
+44,Arroz Largo Fino 1Kg,alimentos,2979.0
+45,Fideos Spaghetti 500G,alimentos,745.0
+46,Lentejas Secas 500G,alimentos,3036.0
+47,Garbanzos 500G,alimentos,2939.0
+48,Porotos Negros 500G,alimentos,4462.0
+49,Harina De Trigo 1Kg,alimentos,2512.0
+50,Azúcar 1Kg,alimentos,727.0
+51,Sal Fina 500G,alimentos,1745.0
+52,Detergente Líquido 750Ml,limpieza,2582.0
+53,Lavandina 1L,alimentos,1664.0
+54,Jabón De Tocador,limpieza,1592.0
+55,Shampoo 400Ml,alimentos,1407.0
+56,Papel Higiénico X4,alimentos,2532.0
+57,Servilletas X100,alimentos,4520.0
+58,Caramelos Masticables,alimentos,4752.0
+59,Chicle Menta,alimentos,3612.0
+60,Chupetín,alimentos,4647.0
+61,Miel Pura 250G,alimentos,4982.0
+62,Stevia 100 Sobres,alimentos,3848.0
+63,Granola 250G,alimentos,4337.0
+64,Avena Instantánea 250G,alimentos,3953.0
+65,Cerveza Rubia 1L,alimentos,2423.0
+66,Cerveza Negra 1L,alimentos,1533.0
+67,Vino Tinto Malbec 750Ml,alimentos,4719.0
+68,Vino Blanco 750Ml,alimentos,2684.0
+69,Sidra 750Ml,alimentos,744.0
+70,Fernet 750Ml,alimentos,4061.0
+71,Vodka 700Ml,alimentos,508.0
+72,Ron 700Ml,alimentos,3876.0
+73,Gin 700Ml,alimentos,1561.0
+74,Whisky 750Ml,alimentos,2953.0
+75,Licor De Café 700Ml,alimentos,3204.0
+76,Pizza Congelada Muzzarella,alimentos,4286.0
+77,Empanadas Congeladas,alimentos,4778.0
+78,Verduras Congeladas Mix,alimentos,4289.0
+79,Hamburguesas Congeladas X4,alimentos,2420.0
+80,Helado De Frutilla 1L,alimentos,1981.0
+81,Aceitunas Verdes 200G,alimentos,2520.0
+82,Aceitunas Negras 200G,alimentos,2394.0
+83,Queso Untable 190G,alimentos,1830.0
+84,Queso Azul 150G,alimentos,1645.0
+85,Jugo En Polvo Naranja,alimentos,1856.0
+86,Jugo En Polvo Limón,alimentos,4090.0
+87,Sopa Instantánea Pollo,alimentos,1679.0
+88,Caldo Concentrado Carne,alimentos,2570.0
+89,Caldo Concentrado Verdura,alimentos,1003.0
+90,Toallas Húmedas X50,alimentos,2902.0
+91,Desodorante Aerosol,alimentos,4690.0
+92,Crema Dental 90G,alimentos,2512.0
+93,Cepillo De Dientes,limpieza,2142.0
+94,Hilo Dental,alimentos,1418.0
+95,Mascarilla Capilar,alimentos,1581.0
+96,Suavizante 1L,alimentos,4920.0
+97,Limpiavidrios 500Ml,alimentos,872.0
+98,Desengrasante 500Ml,alimentos,2843.0
+99,Esponjas X3,limpieza,2430.0
+100,Trapo De Piso,limpieza,4854.0
